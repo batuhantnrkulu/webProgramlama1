@@ -26,6 +26,7 @@
 3. Javascript
 4. Jquery
 5. Font Awesome
+6. Responsive Tasarım
 
 # Kullanılan Yazılımlar
 1. VSCode
