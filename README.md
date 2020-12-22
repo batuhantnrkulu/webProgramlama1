@@ -5,10 +5,10 @@
 
 
 #### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
-##### Tasarlayan: **Batuhan Tanrıkulu** 
-Öğrenci No: **1030516353**
+#### Tasarlayan: **Batuhan Tanrıkulu** 
+#### Öğrenci No: **1030516353**
 
-Öğretim Üyesi: Dr. Fehim KÖYLÜ
+#### Öğretim Üyesi: Dr. Fehim KÖYLÜ
 
 # Dosyalar
 1. index.html
