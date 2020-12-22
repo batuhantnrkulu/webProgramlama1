@@ -1,5 +1,7 @@
 # www.twitter.com sitesinin frontend birebir yeniden tasarımı
+#https://batuhantnrkulu.github.io/webProgramlama1 linki ile site görüntülenebilir. 
 ### BS435 Web Programlama 1 Dersi Vize Ödevi
+
 
 ------------
 
