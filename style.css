@@ -829,5 +829,57 @@ body {
         grid-column: 1 / -1;
     }
 
+    .header-post button {
+        width: 30rem;
+    }
+
+    .post-img img {
+        width: 79%;
+        height: 95%;
+    }
+
+    .post-text {
+        width: 41rem;
+    }
+
+}
+
+@media(max-width: 500px){
+    .icons a {
+        margin-right: 5rem;
+    }
+
+    .header-img-cropper {
+        display:none;
+    }
+
+    .header-post {
+        justify-content: center;
+    }
+
+}
+
+@media(max-width: 150px){
+
+    .icons i {
+        font-size: 2rem;
+    }
+
+    .icons a {
+        margin-right: 4rem;
+    }
+
+    .user {
+        margin-left: -40px;
+    }
+
+    .header-post button {
+        width: 16rem;
+    }
+
+    .header-post i {
+        font-size: 2rem;
+    }
+
 }
 
