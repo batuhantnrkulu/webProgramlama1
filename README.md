@@ -27,6 +27,7 @@
 4. Jquery
 5. Font Awesome
 6. Responsive Tasarım
+7. Koyu Versiyon
 
 # Kullanılan Yazılımlar
 1. VSCode
