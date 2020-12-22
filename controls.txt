@@ -1,0 +1,41 @@
+shift alt aşağı basınca olduğun satırı aşapıya kopyalıyor.
+multiple cursor için alt a basılı tut.
+lorem40 demek 40 kelime ekle
+
+<span>
+<span> 2 sini yan yana yazar.
+
+ol ordered list numaralandırır ul'a göre.
+
+sayfa yenilenmesini engellemek için href yerine hashtag konur !!
+ target _blank yapmak yeni sekmede açacaktır.
+
+br boşluk hr horizontal line
+
+id için hashtag
+class için nokta
+
+id>class>normal css öncelik
+justify yazıyı boşuk bırakmadan tam sığdırıyor
+display : inline ile bg color ile aynı hizaya geliyor. text align çalışmaz. div kullanılması gerekir.
+
+font google com  den font indirilbebilri.
+ctrl / ile istenilen yer yoruma alınabilir. ctrl k c
+
+border : border-width border color border-style
+padding : t r b l
+padding : b-t r-l
+padding: b-t-r-l
+auto da kullanılabilir.
+aynıları marginde de aynı:
+
+content->padding->border->margin (içten dışa )
+
+box-sizing : content-box sadece contentin içeriğini elle.
+
+em ile 16px eğer override edilmezse 3em = 3x16 oolur. rem html haric override edilmez.
+
+css grid için mozilla için en iyisi.
+
+.container>.item.item-${item $}*6  kısa yoldan yazar manuel olarak girilmesi gerekir.
+
