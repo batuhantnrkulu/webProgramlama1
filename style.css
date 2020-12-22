@@ -849,10 +849,6 @@ body {
         margin-right: 5rem;
     }
 
-    .header-img-cropper {
-        display:none;
-    }
-
     .header-post {
         justify-content: center;
     }
