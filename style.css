@@ -868,10 +868,6 @@ body {
         justify-content: inherit;
     }
 
-    .post-user-info {
-        width: 0%;
-    }
-
     .header-post button {
         width: 22rem;
     }
@@ -920,6 +916,15 @@ body {
     }
     .post-text {
         width: 30rem;
+    }
+
+    .user-avatar {
+        display:none;
+    }
+
+    .post-img img {
+        width: 90%;
+        height: 100%;
     }
 
 }
